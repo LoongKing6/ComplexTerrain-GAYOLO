@@ -1,6 +1,6 @@
 # ComplexTerrain-GAYOLO
 
-###我们只公布部分代码，等论文收录再公布全部代码。We are releasing only a portion of the code for now; the full code will be made available once the paper is accepted.
+我们只公布部分代码，等论文收录再公布全部代码。We are releasing only a portion of the code for now; the full code will be made available once the paper is accepted.
 
 # paper:A multi-task YOLO algorithm based on graph convolutional aggregation and attention capture for edge perception in power distribution networks with complex terrain.
 
