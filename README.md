@@ -1,8 +1,8 @@
 # ComplexTerrain-GAYOLO
 
-我们只公布部分代码，等论文收录再公布全部代码。We are releasing only a portion of the code for now; the full code will be made available once the paper is accepted.
+###我们只公布部分代码，等论文收录再公布全部代码。We are releasing only a portion of the code for now; the full code will be made available once the paper is accepted.
 
-# paper:A Lightweight Edge-Aware Multi-Task YOLO for UAV-Based Power Line Segmentation and Strand-Break Detection in Complex-Terrain Distribution Networks
+# paper:A multi-task YOLO algorithm based on graph convolutional aggregation and attention capture for edge perception in power distribution networks with complex terrain.
 
 If you want to refer to the paper’s model alongside the code: the model section is located in `PowerLine-MTYOLOv11` within the `v8` directory under `models`, and the `block` is in the `modules` directory. 
 
